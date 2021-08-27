@@ -5,7 +5,7 @@ theme: "wowchemy-hugo-modules"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gulsah Gurkan # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://gulsahgurkan.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
