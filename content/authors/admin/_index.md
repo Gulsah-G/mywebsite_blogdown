@@ -66,6 +66,4 @@ email: gurkangulsah@gmail.com
 highlight_name: false
 ---
 
-I am passionate about quantitative research and data science. On my website, you will find projects and blogs that may be helpful for your own work (especially if you are looking for tips and tricks in R). 
-
-It is still in progress so stay tuned! 
+I am passionate about quantitative research and data science. On my website, you will find projects and blogs that may be helpful for your own work. Stay tuned especially if you are looking for tips and tricks in R! 
