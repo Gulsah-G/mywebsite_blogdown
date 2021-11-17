@@ -44,13 +44,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GulsahGurkan_
+  link: https://twitter.com/GulsahGurkan
 - icon: github
   icon_pack: fab
   link: https://github.com/Gulsah-G
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gurkangulsah/
+  link: https://www.linkedin.com/in/GulsahGurkan/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
