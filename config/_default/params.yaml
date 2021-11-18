@@ -39,11 +39,11 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Connect with me
-    link: 'https://www.linkedin.com/in/gurkangulsah/'
+    link: 'https://www.linkedin.com/in/GurkanGulsah/'
   - icon: twitter
     icon_pack: fab
     name: Follow me
-    link: 'https://twitter.com/GulsahGurkan_'
+    link: 'https://twitter.com/GulsahGurkan'
 
 # Site header
 
@@ -87,7 +87,7 @@ show_related:
   project: false
   publication: false
   event: false
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: false
