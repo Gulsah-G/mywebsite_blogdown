@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: laptop-code
+  icon: search
   icon_pack: fas
-  name: Programming
+  name: Causal Inference
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
