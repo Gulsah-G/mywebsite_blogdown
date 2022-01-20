@@ -6,7 +6,7 @@ title: Gulsah Gurkan
 superuser: true
 
 # Role/position/tagline
-role: Applied Statistician | Psychometrician | Data Scientist
+role: Applied Statistician | Data Scientist | Psychometrician
 
 # Organizations/Affiliations to show in About widget
 organizations:
