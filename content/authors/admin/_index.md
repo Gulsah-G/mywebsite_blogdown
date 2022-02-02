@@ -22,7 +22,7 @@ interests:
 - Causal inference
 - Survey design and research
 - Algorithm development and implementation
-- Automating data cleaning/preprocessing, analysis, and reporting procedures
+- Automating data cleaning, preprocessing, analysis, and reporting procedures
 
 # Education to show in About widget
 education:
