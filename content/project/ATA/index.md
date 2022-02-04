@@ -4,7 +4,7 @@ external_link: https://cran.r-project.org/web/packages/ata/ata.pdf
 image: 
   caption: 
   focal_point:
-summary: An R package providing a collection of psychometric methods for automated test assembly.
+summary: An R package available on CRAN R repository providing a collection of psychometric methods for automated test assembly.
 tags:
 - Software
 title: 'ATA'
