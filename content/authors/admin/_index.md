@@ -57,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.gulsah-gurkan.com/uploads/ggurkan_resume
+  link: uploads/GGurkan_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: gurkangulsah@gmail.com
