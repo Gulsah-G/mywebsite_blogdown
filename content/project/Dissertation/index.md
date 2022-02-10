@@ -1,6 +1,6 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: https://dlib.bc.edu/islandora/object/bc-ir:109191/datastream/PDF/view
+date: "2021-08-01T00:00:00Z"
+external_link: https://www.gulsah-gurkan.com/uploads/Gurkan_2021_dissertation.pdf
 image: 
   caption: 
   focal_point: 
