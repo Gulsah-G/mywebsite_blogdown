@@ -8,4 +8,5 @@ summary: 'From OLS to Multilevel Multidimensional Mixture IRT: A Model Refinemen
 tags:
 - Publication
 title: 'Dissertation'
+weight: 3
 ---

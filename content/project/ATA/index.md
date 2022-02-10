@@ -8,4 +8,5 @@ summary: An R package available on CRAN R repository providing a collection of p
 tags:
 - Software
 title: 'ATA'
+weight: 1
 ---

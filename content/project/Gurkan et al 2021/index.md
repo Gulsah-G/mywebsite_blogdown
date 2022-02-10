@@ -8,4 +8,5 @@ summary: Gurkan, G., Benjamini, Y., Braun, H. (2021). _Large-scale Assessment in
 tags:
 - Publication
 title: 'Defensible inferences from a nested sequence of logistic regressions: a guide for the perplexed'
+weight: 2
 ---
